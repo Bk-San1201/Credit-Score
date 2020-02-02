@@ -33,43 +33,47 @@ def check_job():
 
 
 def convert_job():
-    pre_mapping_dict = [[['cong nhan', 'cn', 'cnhan', 'lao dong', 'c.nhan', 'coong nhaon', 'may'], 'cong nhan'
-                ],[['nhan vien', 'nv'], 'nhan vien'
-                ],[['ky thuat', 'kt', 'tro li', 'thu ky'], 'rich nhan vien'
-                ],[['lai'], 'lai xe'
+    pre_mapping_dict = [[['cong nhan', 'cn', 'cnhan', 'lao dong', 'c.nhan', 'coong nhaon', 'may', 'cao su', 'cong', 'bao ve', 'nhan'], 'cong nhan'
+                ],[['nhan vien', 'nv', 'thiet bi', 'trung cap'], 'nhan vien'
+                ],[['ky thuat', 'kt', 'tro li', 'thu ky', 'quan ly', 'ky su', 'chuyen vien', 'tro ly'], 'rich nhan vien'
+                ],[['lai', 'tai xe'], 'lai xe'
                 ],[['chien'], 'army'
-                ],[['giao vien', 'giang vien'], 'giao vien'
-                ],[['ban hang', 'sale', 'market', 'kinh doanh', 'bhang'], 'sale'
+                ],[['giao vien', 'giang vien', 'gv'], 'giao vien'
+                ],[['ban hang', 'sale', 'market', 'kinh doanh', 'bhang', 'giao dich'], 'sale'
                 ],[['ke toan'], 'ke toan'
                 ],[['thu no'], 'bad guy'
                 ],[['cu nhan', 'cu nhn'], 'cu nhan'
                 ],[['xay dung', 'xd', 'son', 'tho', 'phu'], 'cong nhan part 2'
-                ],[['chu tich', 'bi thu', 'truong'], 'can bo'
+                ],[['chu tich', 'bi thu', 'truong', 'can bo', 'cb'], 'can bo'
+                ],[['none', 'undefined'], 'none'
+                ],[['dieu duong', 'y te', 'y sy', 'duoc', 'bac sy', 'y si', 'cap duong', 'ho sinh'], 'y te'
+                ],[['giam doc', 'pho'], 'xin xo`'
                 ]]
     jobs_dict = {}
     for i in pre_mapping_dict:
         for val in i[0]:
             jobs_dict[val] = i[1]
     print(jobs_dict)
-    lstJob = ['cong nhan', 'cn', 'cnhan', 'lao dong',
-              'c.nhan', 'coong nhaon', 'may', 'nhan vien', 'nv',
-              'ky thuat', 'kt', 'tro li', 'thu ky', 'lai', 'chien',
-              'giao vien', 'giang vien', 'ban hang', 'sale', 'market',
-              'kinh doanh', 'bhang', 'ke toan', 'cu nhan', 'cu nhn',
-              'cu nhan', 'cu nhn', 'xay dung', 'xd', 'son', 'tho', 'phu',
-              'chu tich', 'bi thu', 'truong']
-    # df = pd.read_csv('./Data/train_input.csv', low_memory=False)
-    # jobs = df['job'].values.tolist()
+    
+    df = pd.read_csv('./Data/train_input.csv', low_memory=False)
+    jobs = df['job'].values.tolist()
     # jobs_converted = []
 
-    # for job in jobs:
-    #     if type(job) is str:
-    #         for i in lstJob:
-    #             if i in job:
-    #                 break
-    #         else:
-    #             print(job)
+    f = open("./Data/test.txt", 'w', encoding='utf8')
 
+    for job in jobs:
+        if type(job) is str:
+            for i in jobs_dict.keys():
+                if i in job:
+                    # f.write(jobs_dict[i] + '-')
+                    break
+            else:
+                f.writelines(job)
+                f.write('\n')
+            # f.write('\n')
+        # else:
+            # f.write('Null\n')
+    f.close()
 
 if __name__ == "__main__":
     convert_job()
