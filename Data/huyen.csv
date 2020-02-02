@@ -1,712 +1,712 @@
-id,tinh
-0,quan ba dinh
-1,quan hoan kiem
-2,quan tay ho
-3,quan long bien
-4,quan cau giay
-5,quan dong da
-6,quan hai ba trung
-7,quan hoang mai
-8,quan thanh xuan
-9,huyen soc son
-10,huyen dong anh
-11,huyen gia lam
-12,quan nam tu liem
-13,huyen thanh tri
-14,quan bac tu liem
-15,huyen me linh
-16,quan ha dong
-17,thi xa son tay
-18,huyen ba vi
-19,huyen phuc tho
-20,huyen dan phuong
-21,huyen hoai duc
-22,huyen quoc oai
-23,huyen thach that
-24,huyen chuong my
-25,huyen thanh oai
-26,huyen thuong tin
-27,huyen phu xuyen
-28,huyen ung hoa
-29,huyen my duc
-30,thanh pho ha giang
-31,huyen dong van
-32,huyen meo vac
-33,huyen yen minh
-34,huyen quan ba
-35,huyen vi xuyen
-36,huyen bac me
-37,huyen hoang su phi
-38,huyen xin man
-39,huyen bac quang
-40,huyen quang binh
-41,thanh pho cao bang
-42,huyen bao lam
-43,huyen bao lac
-44,huyen thong nong
-45,huyen ha quang
-46,huyen tra linh
-47,huyen trung khanh
-48,huyen ha lang
-49,huyen quang uyen
-50,huyen phuc hoa
-51,huyen hoa an
-52,huyen nguyen binh
-53,huyen thach an
-54,thanh pho bac kan
-55,huyen pac nam
-56,huyen ba be
-57,huyen ngan son
-58,huyen bach thong
-59,huyen cho don
-60,huyen cho moi
-61,huyen na ri
-62,thanh pho tuyen quang
-63,huyen lam binh
-64,huyen na hang
-65,huyen chiem hoa
-66,huyen ham yen
-67,huyen yen son
-68,huyen son duong
-69,thanh pho lao cai
-70,huyen bat xat
-71,huyen muong khuong
-72,huyen si ma cai
-73,huyen bac ha
-74,huyen bao thang
-75,huyen bao yen
-76,thi xa sa pa
-77,huyen van ban
-78,thanh pho dien bien phu
-79,thi xa muong lay
-80,huyen muong nhe
-81,huyen muong cha
-82,huyen tua chua
-83,huyen tuan giao
-84,huyen dien bien
-85,huyen dien bien dong
-86,huyen muong ang
-87,huyen nam po
-88,thanh pho lai chau
-89,huyen tam duong
-90,huyen muong te
-91,huyen sin ho
-92,huyen phong tho
-93,huyen than uyen
-94,huyen tan uyen
-95,huyen nam nhun
-96,thanh pho son la
-97,huyen quynh nhai
-98,huyen thuan chau
-99,huyen muong la
-100,huyen bac yen
-101,huyen phu yen
-102,huyen moc chau
-103,huyen yen chau
-104,huyen mai son
-105,huyen song ma
-106,huyen sop cop
-107,huyen van ho
-108,thanh pho yen bai
-109,thi xa nghia lo
-110,huyen luc yen
-111,huyen van yen
-112,huyen mu cang chai
-113,huyen tran yen
-114,huyen tram tau
-115,huyen van chan
-116,huyen yen binh
-117,thanh pho hoa binh
-118,huyen da bac
-119,huyen luong son
-120,huyen kim boi
-121,huyen cao phong
-122,huyen tan lac
-123,huyen mai chau
-124,huyen lac son
-125,huyen yen thuy
-126,huyen lac thuy
-127,thanh pho thai nguyen
-128,thanh pho song cong
-129,huyen dinh hoa
-130,huyen phu luong
-131,huyen dong hy
-132,huyen vo nhai
-133,huyen dai tu
-134,thi xa pho yen
-135,huyen phu binh
-136,thanh pho lang son
-137,huyen trang dinh
-138,huyen binh gia
-139,huyen van lang
-140,huyen cao loc
-141,huyen van quan
-142,huyen bac son
-143,huyen huu lung
-144,huyen chi lang
-145,huyen loc binh
-146,huyen dinh lap
-147,thanh pho ha long
-148,thanh pho mong cai
-149,thanh pho cam pha
-150,thanh pho uong bi
-151,huyen binh lieu
-152,huyen tien yen
-153,huyen dam ha
-154,huyen hai ha
-155,huyen ba che
-156,huyen van don
-157,thi xa dong trieu
-158,thi xa quang yen
-159,huyen co to
-160,thanh pho bac giang
-161,huyen yen the
-162,huyen tan yen
-163,huyen lang giang
-164,huyen luc nam
-165,huyen luc ngan
-166,huyen son dong
-167,huyen yen dung
-168,huyen viet yen
-169,huyen hiep hoa
-170,thanh pho viet tri
-171,thi xa phu tho
-172,huyen doan hung
-173,huyen ha hoa
-174,huyen thanh ba
-175,huyen phu ninh
-176,huyen yen lap
-177,huyen cam khe
-178,huyen tam nong
-179,huyen lam thao
-180,huyen thanh son
-181,huyen thanh thuy
-182,huyen tan son
-183,thanh pho vinh yen
-184,thanh pho phuc yen
-185,huyen lap thach
-186,huyen tam duong
-187,huyen tam dao
-188,huyen binh xuyen
-189,huyen yen lac
-190,huyen vinh tuong
-191,huyen song lo
-192,thanh pho bac ninh
-193,huyen yen phong
-194,huyen que vo
-195,huyen tien du
-196,thi xa tu son
-197,huyen thuan thanh
-198,huyen gia binh
-199,huyen luong tai
-200,thanh pho hai duong
-201,thanh pho chi linh
-202,huyen nam sach
-203,thi xa kinh mon
-204,huyen kim thanh
-205,huyen thanh ha
-206,huyen cam giang
-207,huyen binh giang
-208,huyen gia loc
-209,huyen tu ky
-210,huyen ninh giang
-211,huyen thanh mien
-212,quan hong bang
-213,quan ngo quyen
-214,quan le chan
-215,quan hai an
-216,quan kien an
-217,quan do son
-218,quan duong kinh
-219,huyen thuy nguyen
-220,huyen an duong
-221,huyen an lao
-222,huyen kien thuy
-223,huyen tien lang
-224,huyen vinh bao
-225,huyen cat hai
-226,huyen bach long vi
-227,thanh pho hung yen
-228,huyen van lam
-229,huyen van giang
-230,huyen yen my
-231,thi xa my hao
-232,huyen an thi
-233,huyen khoai chau
-234,huyen kim dong
-235,huyen tien lu
-236,huyen phu cu
-237,thanh pho thai binh
-238,huyen quynh phu
-239,huyen hung ha
-240,huyen dong hung
-241,huyen thai thuy
-242,huyen tien hai
-243,huyen kien xuong
-244,huyen vu thu
-245,thanh pho phu ly
-246,thi xa duy tien
-247,huyen kim bang
-248,huyen thanh liem
-249,huyen binh luc
-250,huyen ly nhan
-251,thanh pho nam dinh
-252,huyen my loc
-253,huyen vu ban
-254,huyen y yen
-255,huyen nghia hung
-256,huyen nam truc
-257,huyen truc ninh
-258,huyen xuan truong
-259,huyen giao thuy
-260,huyen hai hau
-261,thanh pho ninh binh
-262,thanh pho tam diep
-263,huyen nho quan
-264,huyen gia vien
-265,huyen hoa lu
-266,huyen yen khanh
-267,huyen kim son
-268,huyen yen mo
-269,thanh pho thanh hoa
-270,thi xa bim son
-271,thanh pho sam son
-272,huyen muong lat
-273,huyen quan hoa
-274,huyen ba thuoc
-275,huyen quan son
-276,huyen lang chanh
-277,huyen ngoc lac
-278,huyen cam thuy
-279,huyen thach thanh
-280,huyen ha trung
-281,huyen vinh loc
-282,huyen yen dinh
-283,huyen tho xuan
-284,huyen thuong xuan
-285,huyen trieu son
-286,huyen thieu hoa
-287,huyen hoang hoa
-288,huyen hau loc
-289,huyen nga son
-290,huyen nhu xuan
-291,huyen nhu thanh
-292,huyen nong cong
-293,huyen dong son
-294,huyen quang xuong
-295,huyen tinh gia
-296,thanh pho vinh
-297,thi xa cua lo
-298,thi xa thai hoa
-299,huyen que phong
-300,huyen quy chau
-301,huyen ky son
-302,huyen tuong duong
-303,huyen nghia dan
-304,huyen quy hop
-305,huyen quynh luu
-306,huyen con cuong
-307,huyen tan ky
-308,huyen anh son
-309,huyen dien chau
-310,huyen yen thanh
-311,huyen do luong
-312,huyen thanh chuong
-313,huyen nghi loc
-314,huyen nam dan
-315,huyen hung nguyen
-316,thi xa hoang mai
-317,thanh pho ha tinh
-318,thi xa hong linh
-319,huyen huong son
-320,huyen duc tho
-321,huyen vu quang
-322,huyen nghi xuan
-323,huyen can loc
-324,huyen huong khe
-325,huyen thach ha
-326,huyen cam xuyen
-327,huyen ky anh
-328,huyen loc ha
-329,thi xa ky anh
-330,thanh pho dong hoi
-331,huyen minh hoa
-332,huyen tuyen hoa
-333,huyen quang trach
-334,huyen bo trach
-335,huyen quang ninh
-336,huyen le thuy
-337,thi xa ba don
-338,thanh pho dong ha
-339,thi xa quang tri
-340,huyen vinh linh
-341,huyen huong hoa
-342,huyen gio linh
-343,huyen da krong
-344,huyen cam lo
-345,huyen trieu phong
-346,huyen hai lang
-347,huyen con co
-348,thanh pho hue
-349,huyen phong dien
-350,huyen quang dien
-351,huyen phu vang
-352,thi xa huong thuy
-353,thi xa huong tra
-354,huyen a luoi
-355,huyen phu loc
-356,huyen nam dong
-357,quan lien chieu
-358,quan thanh khe
-359,quan hai chau
-360,quan son tra
-361,quan ngu hanh son
-362,quan cam le
-363,huyen hoa vang
-364,huyen hoang sa
-365,thanh pho tam ky
-366,thanh pho hoi an
-367,huyen tay giang
-368,huyen dong giang
-369,huyen dai loc
-370,thi xa dien ban
-371,huyen duy xuyen
-372,huyen que son
-373,huyen nam giang
-374,huyen phuoc son
-375,huyen hiep duc
-376,huyen thang binh
-377,huyen tien phuoc
-378,huyen bac tra my
-379,huyen nam tra my
-380,huyen nui thanh
-381,huyen phu ninh
-382,huyen nong son
-383,thanh pho quang ngai
-384,huyen binh son
-385,huyen tra bong
-386,huyen tay tra
-387,huyen son tinh
-388,huyen tu nghia
-389,huyen son ha
-390,huyen son tay
-391,huyen minh long
-392,huyen nghia hanh
-393,huyen mo duc
-394,huyen duc pho
-395,huyen ba to
-396,huyen ly son
-397,thanh pho qui nhon
-398,huyen an lao
-399,huyen hoai nhon
-400,huyen hoai an
-401,huyen phu my
-402,huyen vinh thanh
-403,huyen tay son
-404,huyen phu cat
-405,thi xa an nhon
-406,huyen tuy phuoc
-407,huyen van canh
-408,thanh pho tuy hoa
-409,thi xa song cau
-410,huyen dong xuan
-411,huyen tuy an
-412,huyen son hoa
-413,huyen song hinh
-414,huyen tay hoa
-415,huyen phu hoa
-416,huyen dong hoa
-417,thanh pho nha trang
-418,thanh pho cam ranh
-419,huyen cam lam
-420,huyen van ninh
-421,thi xa ninh hoa
-422,huyen khanh vinh
-423,huyen dien khanh
-424,huyen khanh son
-425,huyen truong sa
-426,thanh pho phan rang-thap cham
-427,huyen bac ai
-428,huyen ninh son
-429,huyen ninh hai
-430,huyen ninh phuoc
-431,huyen thuan bac
-432,huyen thuan nam
-433,thanh pho phan thiet
-434,thi xa la gi
-435,huyen tuy phong
-436,huyen bac binh
-437,huyen ham thuan bac
-438,huyen ham thuan nam
-439,huyen tanh linh
-440,huyen duc linh
-441,huyen ham tan
-442,huyen phu qui
-443,thanh pho kon tum
-444,huyen dak glei
-445,huyen ngoc hoi
-446,huyen dak to
-447,huyen kon plong
-448,huyen kon ray
-449,huyen dak ha
-450,huyen sa thay
-451,huyen tu mo rong
-452,huyen ia h' drai
-453,thanh pho pleiku
-454,thi xa an khe
-455,thi xa ayun pa
-456,huyen kbang
-457,huyen dak doa
-458,huyen chu pah
-459,huyen ia grai
-460,huyen mang yang
-461,huyen kong chro
-462,huyen duc co
-463,huyen chu prong
-464,huyen chu se
-465,huyen dak po
-466,huyen ia pa
-467,huyen krong pa
-468,huyen phu thien
-469,huyen chu puh
-470,thanh pho buon ma thuot
-471,thi xa buon ho
-472,huyen ea h'leo
-473,huyen ea sup
-474,huyen buon don
-475,huyen cu m'gar
-476,huyen krong buk
-477,huyen krong nang
-478,huyen ea kar
-479,huyen m'drak
-480,huyen krong bong
-481,huyen krong pac
-482,huyen krong a na
-483,huyen lak
-484,huyen cu kuin
-485,thanh pho gia nghia
-486,huyen dak glong
-487,huyen cu jut
-488,huyen dak mil
-489,huyen krong no
-490,huyen dak song
-491,huyen dak r'lap
-492,huyen tuy duc
-493,thanh pho da lat
-494,thanh pho bao loc
-495,huyen dam rong
-496,huyen lac duong
-497,huyen lam ha
-498,huyen don duong
-499,huyen duc trong
-500,huyen di linh
-501,huyen bao lam
-502,huyen da huoai
-503,huyen da teh
-504,huyen cat tien
-505,thi xa phuoc long
-506,thanh pho dong xoai
-507,thi xa binh long
-508,huyen bu gia map
-509,huyen loc ninh
-510,huyen bu dop
-511,huyen hon quan
-512,huyen dong phu
-513,huyen bu dang
-514,huyen chon thanh
-515,huyen phu rieng
-516,thanh pho tay ninh
-517,huyen tan bien
-518,huyen tan chau
-519,huyen duong minh chau
-520,huyen chau thanh
-521,huyen hoa thanh
-522,huyen go dau
-523,huyen ben cau
-524,huyen trang bang
-525,thanh pho thu dau mot
-526,huyen bau bang
-527,huyen dau tieng
-528,thi xa ben cat
-529,huyen phu giao
-530,thi xa tan uyen
-531,thi xa di an
-532,thi xa thuan an
-533,huyen bac tan uyen
-534,thanh pho bien hoa
-535,thanh pho long khanh
-536,huyen tan phu
-537,huyen vinh cuu
-538,huyen dinh quan
-539,huyen trang bom
-540,huyen thong nhat
-541,huyen cam my
-542,huyen long thanh
-543,huyen xuan loc
-544,huyen nhon trach
-545,thanh pho vung tau
-546,thanh pho ba ria
-547,huyen chau duc
-548,huyen xuyen moc
-549,huyen long dien
-550,huyen dat do
-551,thi xa phu my
-552,huyen con dao
-553,quan 1
-554,quan 12
-555,quan thu duc
-556,quan 9
-557,quan go vap
-558,quan binh thanh
-559,quan tan binh
-560,quan tan phu
-561,quan phu nhuan
-562,quan 2
-563,quan 3
-564,quan 10
-565,quan 11
-566,quan 4
-567,quan 5
-568,quan 6
-569,quan 8
-570,quan binh tan
-571,quan 7
-572,huyen cu chi
-573,huyen hoc mon
-574,huyen binh chanh
-575,huyen nha be
-576,huyen can gio
-577,thanh pho tan an
-578,thi xa kien tuong
-579,huyen tan hung
-580,huyen vinh hung
-581,huyen moc hoa
-582,huyen tan thanh
-583,huyen thanh hoa
-584,huyen duc hue
-585,huyen duc hoa
-586,huyen ben luc
-587,huyen thu thua
-588,huyen tan tru
-589,huyen can duoc
-590,huyen can giuoc
-591,huyen chau thanh
-592,thanh pho my tho
-593,thi xa go cong
-594,thi xa cai lay
-595,huyen tan phuoc
-596,huyen cai be
-597,huyen cai lay
-598,huyen chau thanh
-599,huyen cho gao
-600,huyen go cong tay
-601,huyen go cong dong
-602,huyen tan phu dong
-603,thanh pho ben tre
-604,huyen chau thanh
-605,huyen cho lach
-606,huyen mo cay nam
-607,huyen giong trom
-608,huyen binh dai
-609,huyen ba tri
-610,huyen thanh phu
-611,huyen mo cay bac
-612,thanh pho tra vinh
-613,huyen cang long
-614,huyen cau ke
-615,huyen tieu can
-616,huyen chau thanh
-617,huyen cau ngang
-618,huyen tra cu
-619,huyen duyen hai
-620,thi xa duyen hai
-621,thanh pho vinh long
-622,huyen long ho
-623,huyen mang thit
-624,huyen  vung liem
-625,huyen tam binh
-626,thi xa binh minh
-627,huyen tra on
-628,huyen binh tan
-629,thanh pho cao lanh
-630,thanh pho sa dec
-631,thi xa hong ngu
-632,huyen tan hong
-633,huyen hong ngu
-634,huyen tam nong
-635,huyen thap muoi
-636,huyen cao lanh
-637,huyen thanh binh
-638,huyen lap vo
-639,huyen lai vung
-640,huyen chau thanh
-641,thanh pho long xuyen
-642,thanh pho chau doc
-643,huyen an phu
-644,thi xa tan chau
-645,huyen phu tan
-646,huyen chau phu
-647,huyen tinh bien
-648,huyen tri ton
-649,huyen chau thanh
-650,huyen cho moi
-651,huyen thoai son
-652,thanh pho rach gia
-653,thanh pho ha tien
-654,huyen kien luong
-655,huyen hon dat
-656,huyen tan hiep
-657,huyen chau thanh
-658,huyen giong rieng
-659,huyen go quao
-660,huyen an bien
-661,huyen an minh
-662,huyen vinh thuan
-663,huyen phu quoc
-664,huyen kien hai
-665,huyen u minh thuong
-666,huyen giang thanh
-667,quan ninh kieu
-668,quan o mon
-669,quan binh thuy
-670,quan cai rang
-671,quan thot not
-672,huyen vinh thanh
-673,huyen co do
-674,huyen phong dien
-675,huyen thoi lai
-676,thanh pho vi thanh
-677,thi xa nga bay
-678,huyen chau thanh a
-679,huyen chau thanh
-680,huyen phung hiep
-681,huyen vi thuy
-682,huyen long my
-683,thi xa long my
-684,thanh pho soc trang
-685,huyen chau thanh
-686,huyen ke sach
-687,huyen my tu
-688,huyen cu lao dung
-689,huyen long phu
-690,huyen my xuyen
-691,thi xa nga nam
-692,huyen thanh tri
-693,thi xa vinh chau
-694,huyen tran de
-695,thanh pho bac lieu
-696,huyen hong dan
-697,huyen phuoc long
-698,huyen vinh loi
-699,thi xa gia rai
-700,huyen dong hai
-701,huyen hoa binh
-702,thanh pho ca mau
-703,huyen u minh
-704,huyen thoi binh
-705,huyen tran van thoi
-706,huyen cai nuoc
-707,huyen dam doi
-708,huyen nam can
-709,huyen phu tan
-710,huyen ngoc hien
+id,huyen
+0,ba dinh
+1,hoan kiem
+2,tay ho
+3,long bien
+4,cau giay
+5,dong da
+6,hai ba trung
+7,hoang mai
+8,thanh xuan
+9,soc son
+10,dong anh
+11,gia lam
+12,nam tu liem
+13,thanh tri
+14,bac tu liem
+15,me linh
+16,ha dong
+17,son tay
+18,ba vi
+19,phuc tho
+20,dan phuong
+21,hoai duc
+22,quoc oai
+23,thach that
+24,chuong my
+25,thanh oai
+26,thuong tin
+27,phu xuyen
+28,ung hoa
+29,my duc
+30,ha giang
+31,dong van
+32,meo vac
+33,yen minh
+34,ba
+35,vi xuyen
+36,bac me
+37,hoang su phi
+38,xin man
+39,bac quang
+40,quang binh
+41,cao bang
+42,bao lam
+43,bao lac
+44,thong nong
+45,ha quang
+46,tra linh
+47,trung khanh
+48,ha lang
+49,quang uyen
+50,phuc hoa
+51,hoa an
+52,nguyen binh
+53,thach an
+54,bac kan
+55,pac nam
+56,ba be
+57,ngan son
+58,bach thong
+59,cho don
+60,cho moi
+61,na ri
+62,tuyen quang
+63,lam binh
+64,na hang
+65,chiem hoa
+66,ham yen
+67,yen son
+68,son duong
+69,lao cai
+70,bat xat
+71,muong khuong
+72,si ma cai
+73,bac ha
+74,bao thang
+75,bao yen
+76,sa pa
+77,van ban
+78,dien bien phu
+79,muong lay
+80,muong nhe
+81,muong cha
+82,tua chua
+83,tuan giao
+84,dien bien
+85,dien bien dong
+86,muong ang
+87,nam po
+88,lai chau
+89,tam duong
+90,muong te
+91,sin ho
+92,phong tho
+93,than uyen
+94,tan uyen
+95,nam nhun
+96,son la
+97,quynh nhai
+98,thuan chau
+99,muong la
+100,bac yen
+101,phu yen
+102,moc chau
+103,yen chau
+104,mai son
+105,song ma
+106,sop cop
+107,van ho
+108,yen bai
+109,nghia lo
+110,luc yen
+111,van yen
+112,mu cang chai
+113,tran yen
+114,tram tau
+115,van chan
+116,yen binh
+117,hoa binh
+118,da bac
+119,luong son
+120,kim boi
+121,cao phong
+122,tan lac
+123,mai chau
+124,lac son
+125,yen thuy
+126,lac thuy
+127,thai nguyen
+128,song cong
+129,dinh hoa
+130,phu luong
+131,dong hy
+132,vo nhai
+133,dai tu
+134,pho yen
+135,phu binh
+136,lang son
+137,trang dinh
+138,binh gia
+139,van lang
+140,cao loc
+141,van quan
+142,bac son
+143,huu lung
+144,chi lang
+145,loc binh
+146,dinh lap
+147,ha long
+148,mong cai
+149,cam pha
+150,uong bi
+151,binh lieu
+152,tien yen
+153,dam ha
+154,hai ha
+155,ba che
+156,van don
+157,dong trieu
+158,quang yen
+159,co to
+160,bac giang
+161,yen the
+162,tan yen
+163,lang giang
+164,luc nam
+165,luc ngan
+166,son dong
+167,yen dung
+168,viet yen
+169,hiep hoa
+170,viet tri
+171,phu tho
+172,doan hung
+173,ha hoa
+174,thanh ba
+175,phu ninh
+176,yen lap
+177,cam khe
+178,tam nong
+179,lam thao
+180,thanh son
+181,thanh thuy
+182,tan son
+183,vinh yen
+184,phuc yen
+185,lap thach
+186,tam duong
+187,tam dao
+188,binh xuyen
+189,yen lac
+190,vinh tuong
+191,song lo
+192,bac ninh
+193,yen phong
+194,que vo
+195,tien du
+196,tu son
+197,thuan thanh
+198,gia binh
+199,luong tai
+200,hai duong
+201,chi linh
+202,nam sach
+203,kinh mon
+204,kim thanh
+205,thanh ha
+206,cam giang
+207,binh giang
+208,gia loc
+209,tu ky
+210,ninh giang
+211,thanh mien
+212,hong bang
+213,ngo quyen
+214,le chan
+215,hai an
+216,kien an
+217,do son
+218,duong kinh
+219,thuy nguyen
+220,an duong
+221,an lao
+222,kien thuy
+223,tien lang
+224,vinh bao
+225,cat hai
+226,bach long vi
+227,hung yen
+228,van lam
+229,van giang
+230,yen my
+231,my hao
+232,an thi
+233,khoai chau
+234,kim dong
+235,tien lu
+236,phu cu
+237,thai binh
+238,quynh phu
+239,hung ha
+240,dong hung
+241,thai thuy
+242,tien hai
+243,kien xuong
+244,vu thu
+245,phu ly
+246,duy tien
+247,kim bang
+248,thanh liem
+249,binh luc
+250,ly nhan
+251,nam dinh
+252,my loc
+253,vu ban
+254,y yen
+255,nghia hung
+256,nam truc
+257,truc ninh
+258,xuan truong
+259,giao thuy
+260,hai hau
+261,ninh binh
+262,tam diep
+263,nho quan
+264,gia vien
+265,hoa lu
+266,yen khanh
+267,kim son
+268,yen mo
+269,thanh hoa
+270,bim son
+271,sam son
+272,muong lat
+273,hoa
+274,ba thuoc
+275,son
+276,lang chanh
+277,ngoc lac
+278,cam thuy
+279,thach thanh
+280,ha trung
+281,vinh loc
+282,yen dinh
+283,tho xuan
+284,thuong xuan
+285,trieu son
+286,thieu hoa
+287,hoang hoa
+288,hau loc
+289,nga son
+290,nhu xuan
+291,nhu thanh
+292,nong cong
+293,dong son
+294,quang xuong
+295,tinh gia
+296,vinh
+297,cua lo
+298,thai hoa
+299,que phong
+300,quy chau
+301,ky son
+302,tuong duong
+303,nghia dan
+304,quy hop
+305,quynh luu
+306,con cuong
+307,tan ky
+308,anh son
+309,dien chau
+310,yen thanh
+311,do luong
+312,thanh chuong
+313,nghi loc
+314,nam dan
+315,hung nguyen
+316,hoang mai
+317,ha tinh
+318,hong linh
+319,huong son
+320,duc tho
+321,vu quang
+322,nghi xuan
+323,can loc
+324,huong khe
+325,thach ha
+326,cam xuyen
+327,ky anh
+328,loc ha
+329,ky anh
+330,dong hoi
+331,minh hoa
+332,tuyen hoa
+333,quang trach
+334,bo trach
+335,quang ninh
+336,le thuy
+337,ba don
+338,dong ha
+339,quang tri
+340,vinh linh
+341,huong hoa
+342,gio linh
+343,da krong
+344,cam lo
+345,trieu phong
+346,hai lang
+347,con co
+348,hue
+349,phong dien
+350,quang dien
+351,phu vang
+352,huong thuy
+353,huong tra
+354,a luoi
+355,phu loc
+356,nam dong
+357,lien chieu
+358,thanh khe
+359,hai chau
+360,son tra
+361,ngu hanh son
+362,cam le
+363,hoa vang
+364,hoang sa
+365,tam ky
+366,hoi an
+367,tay giang
+368,dong giang
+369,dai loc
+370,dien ban
+371,duy xuyen
+372,que son
+373,nam giang
+374,phuoc son
+375,hiep duc
+376,thang binh
+377,tien phuoc
+378,bac tra my
+379,nam tra my
+380,nui thanh
+381,phu ninh
+382,nong son
+383,quang ngai
+384,binh son
+385,tra bong
+386,tay tra
+387,son tinh
+388,tu nghia
+389,son ha
+390,son tay
+391,minh long
+392,nghia hanh
+393,mo duc
+394,duc pho
+395,ba to
+396,ly son
+397,quy nhon
+398,an lao
+399,hoai nhon
+400,hoai an
+401,phu my
+402,vinh thanh
+403,tay son
+404,phu cat
+405,an nhon
+406,tuy phuoc
+407,van canh
+408,tuy hoa
+409,song cau
+410,dong xuan
+411,tuy an
+412,son hoa
+413,song hinh
+414,tay hoa
+415,phu hoa
+416,dong hoa
+417,nha trang
+418,cam ranh
+419,cam lam
+420,van ninh
+421,ninh hoa
+422,khanh vinh
+423,dien khanh
+424,khanh son
+425,truong sa
+426,phan rang-thap cham
+427,bac ai
+428,ninh son
+429,ninh hai
+430,ninh phuoc
+431,thuan bac
+432,thuan nam
+433,phan thiet
+434,la gi
+435,tuy phong
+436,bac binh
+437,ham thuan bac
+438,ham thuan nam
+439,tanh linh
+440,duc linh
+441,ham tan
+442,phu qui
+443,kon tum
+444,dak glei
+445,ngoc hoi
+446,dak to
+447,kon plong
+448,kon ray
+449,dak ha
+450,sa thay
+451,tu mo rong
+452,ia h' drai
+453,pleiku
+454,an khe
+455,ayun pa
+456,kbang
+457,dak doa
+458,chu pah
+459,ia grai
+460,mang yang
+461,kong chro
+462,duc co
+463,chu prong
+464,chu se
+465,dak po
+466,ia pa
+467,krong pa
+468,phu thien
+469,chu puh
+470,buon ma thuot
+471,buon ho
+472,ea h'leo
+473,ea sup
+474,buon don
+475,cu m'gar
+476,krong buk
+477,krong nang
+478,ea kar
+479,m'drak
+480,krong bong
+481,krong pac
+482,krong a na
+483,lak
+484,cu kuin
+485,gia nghia
+486,dak glong
+487,cu jut
+488,dak mil
+489,krong no
+490,dak song
+491,dak r'lap
+492,tuy duc
+493,da lat
+494,bao loc
+495,dam rong
+496,lac duong
+497,lam ha
+498,don duong
+499,duc trong
+500,di linh
+501,bao lam
+502,da huoai
+503,da teh
+504,cat tien
+505,phuoc long
+506,dong xoai
+507,binh long
+508,bu gia map
+509,loc ninh
+510,bu dop
+511,hon quan
+512,dong phu
+513,bu dang
+514,chon thanh
+515,phu rieng
+516,tay ninh
+517,tan bien
+518,tan chau
+519,duong minh chau
+520,chau thanh
+521,hoa thanh
+522,go dau
+523,ben cau
+524,trang bang
+525,thu dau mot
+526,bau bang
+527,dau tieng
+528,ben cat
+529,phu giao
+530,tan uyen
+531,di an
+532,thuan an
+533,bac tan uyen
+534,bien hoa
+535,long khanh
+536,tan phu
+537,vinh cuu
+538,dinh quan
+539,trang bom
+540,thong nhat
+541,cam my
+542,long thanh
+543,xuan loc
+544,nhon trach
+545,vung tau
+546,ba ria
+547,chau duc
+548,xuyen moc
+549,long dien
+550,dat do
+551,phu my
+552,con dao
+553,1
+554,12
+555,thu duc
+556,9
+557,go vap
+558,binh thanh
+559,tan binh
+560,tan phu
+561,phu nhuan
+562,2
+563,3
+564,10
+565,11
+566,4
+567,5
+568,6
+569,8
+570,binh tan
+571,7
+572,cu chi
+573,hoc mon
+574,binh chanh
+575,nha be
+576,can gio
+577,tan an
+578,kien tuong
+579,tan hung
+580,vinh hung
+581,moc hoa
+582,tan thanh
+583,thanh hoa
+584,duc hue
+585,duc hoa
+586,ben luc
+587,thu thua
+588,tan tru
+589,can duoc
+590,can giuoc
+591,chau thanh
+592,my tho
+593,go cong
+594,cai lay
+595,tan phuoc
+596,cai be
+597,cai lay
+598,chau thanh
+599,cho gao
+600,go cong tay
+601,go cong dong
+602,tan phu dong
+603,ben tre
+604,chau thanh
+605,cho lach
+606,mo cay nam
+607,giong trom
+608,binh dai
+609,ba tri
+610,thanh phu
+611,mo cay bac
+612,tra vinh
+613,cang long
+614,cau ke
+615,tieu can
+616,chau thanh
+617,cau ngang
+618,tra cu
+619,duyen hai
+620,duyen hai
+621,vinh long
+622,long ho
+623,mang thit
+624,vung liem
+625,tam binh
+626,binh minh
+627,tra on
+628,binh tan
+629,cao lanh
+630,sa dec
+631,hong ngu
+632,tan hong
+633,hong ngu
+634,tam nong
+635,thap muoi
+636,cao lanh
+637,thanh binh
+638,lap vo
+639,lai vung
+640,chau thanh
+641,long xuyen
+642,chau doc
+643,an phu
+644,tan chau
+645,phu tan
+646,chau phu
+647,tinh bien
+648,tri ton
+649,chau thanh
+650,cho moi
+651,thoai son
+652,rach gia
+653,ha tien
+654,kien luong
+655,hon dat
+656,tan hiep
+657,chau thanh
+658,giong rieng
+659,go quao
+660,an bien
+661,an minh
+662,vinh thuan
+663,phu quoc
+664,kien hai
+665,u minh thuong
+666,giang thanh
+667,ninh kieu
+668,o mon
+669,binh thuy
+670,cai rang
+671,thot not
+672,vinh thanh
+673,co do
+674,phong dien
+675,thoi lai
+676,vi thanh
+677,nga bay
+678,chau thanh a
+679,chau thanh
+680,phung hiep
+681,vi thuy
+682,long my
+683,long my
+684,soc trang
+685,chau thanh
+686,ke sach
+687,my tu
+688,cu lao dung
+689,long phu
+690,my xuyen
+691,nga nam
+692,thanh tri
+693,vinh chau
+694,tran de
+695,bac lieu
+696,hong dan
+697,phuoc long
+698,vinh loi
+699,gia rai
+700,dong hai
+701,hoa binh
+702,ca mau
+703,u minh
+704,thoi binh
+705,tran van thoi
+706,cai nuoc
+707,dam doi
+708,nam can
+709,phu tan
+710,ngoc hien
