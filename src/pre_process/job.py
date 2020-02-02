@@ -33,21 +33,23 @@ def check_job():
 
 
 def convert_job():
-    pre_mapping_dict = [[['cong nhan', 'cn', 'cnhan', 'lao dong', 'c.nhan', 'coong nhaon', 'may', 'cao su', 'cong', 'bao ve', 'nhan'], 'cong nhan'
-                ],[['nhan vien', 'nv', 'thiet bi', 'trung cap'], 'nhan vien'
-                ],[['ky thuat', 'kt', 'tro li', 'thu ky', 'quan ly', 'ky su', 'chuyen vien', 'tro ly'], 'rich nhan vien'
+    pre_mapping_dict = [[['cong nhan', 'cn', 'cnhan', 'lao dong', 'c.nhan', 'coong nhaon', 'may', 'cao su', 'cong', 'bao ve', 'nhan', 'sua chua'], 'cong nhan'
+                ],[['nhan vien', 'nv', 'thiet bi', 'trung cap', 'quan li', 'nhon vion', 'vien', 'tiep thi'], 'nhan vien'
+                ],[['giam dinh', 'giam sat', 'kiem tra', 'kt', 'quan doc', 'kiem soat', 'thanh tra'], 'nhan vien kiem tra'
+                ],[['ky thuat', 'kt', 'tro li', 'thu ky', 'quan ly', 'ky su', 'chuyen vien', 'tro ly', 'dien vien', 'quan doc', 'thu kho', 'tiep vien'], 'rich nhan vien'
                 ],[['lai', 'tai xe'], 'lai xe'
                 ],[['chien'], 'army'
-                ],[['giao vien', 'giang vien', 'gv'], 'giao vien'
-                ],[['ban hang', 'sale', 'market', 'kinh doanh', 'bhang', 'giao dich'], 'sale'
+                ],[['giao vien', 'giang vien', 'gv', 'giáo vien', 'dao tao'], 'giao vien'
+                ],[['ban hang', 'sale', 'market', 'kinh doanh', 'bhang', 'giao dich', 'tiep thi'], 'sale'
                 ],[['ke toan'], 'ke toan'
                 ],[['thu no'], 'bad guy'
                 ],[['cu nhan', 'cu nhn'], 'cu nhan'
                 ],[['xay dung', 'xd', 'son', 'tho', 'phu'], 'cong nhan part 2'
-                ],[['chu tich', 'bi thu', 'truong', 'can bo', 'cb'], 'can bo'
+                ],[['chu tich', 'bi thu', 'truong', 'can bo', 'cb', 'can', 'vien chuc'], 'can bo'
                 ],[['none', 'undefined'], 'none'
-                ],[['dieu duong', 'y te', 'y sy', 'duoc', 'bac sy', 'y si', 'cap duong', 'ho sinh'], 'y te'
-                ],[['giam doc', 'pho'], 'xin xo`'
+                ],[['dieu duong', 'y te', 'y sy', 'duoc', 'bac sy', 'y si', 'cap duong', 'ho sinh', 'y', 'bac si'], 'y te'
+                ],[['giam doc', 'pho', 'dien vien', 'gdoc'], 'xin xo`'
+                ],[['giao hang'], 'shipper'
                 ]]
     jobs_dict = {}
     for i in pre_mapping_dict:
