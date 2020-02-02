@@ -94,10 +94,5 @@ def test():
             i += 1
     print(i / len(tmp))
 
-def check_job():
-    df = pd.read_csv('./Data/train_input.csv', low_memory=False)
-    job = df['maCv'].unique()
-    for j in job:
-        print(j)
 if __name__ == "__main__":
-    check_job()
+    test()
