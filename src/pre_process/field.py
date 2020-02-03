@@ -61,6 +61,7 @@ if __name__ == "__main__":
     check_field('FIELD_9')
     check_field('FIELD_10')
     check_field('FIELD_13')
+    check_field('FIELD_17')
     check_field('FIELD_24')
     check_field('FIELD_39')
     check_field('FIELD_41')
