@@ -38,7 +38,7 @@ def convert_job():
                 ],[['giam dinh', 'giam sat', 'kiem tra', 'kt', 'quan doc', 'kiem soat', 'thanh tra'], 'nhan vien kiem tra'
                 ],[['ky thuat', 'kt', 'tro li', 'thu ky', 'quan ly', 'ky su', 'chuyen vien', 'tro ly', 'dien vien', 'quan doc', 'thu kho', 'tiep vien'], 'rich nhan vien'
                 ],[['lai', 'tai xe'], 'lai xe'
-                ],[['chien'], 'army'
+                ],[['chien', 've'], 'army'
                 ],[['giao vien', 'giang vien', 'gv', 'giáo vien', 'dao tao'], 'giao vien'
                 ],[['ban hang', 'sale', 'market', 'kinh doanh', 'bhang', 'giao dich', 'tiep thi'], 'sale'
                 ],[['ke toan'], 'ke toan'
