@@ -59,22 +59,25 @@ def convert_job():
     
     df = pd.read_csv('./Data/train_input.csv', low_memory=False)
     jobs = df['job'].values.tolist()
-    # jobs_converted = []
+    jobs_converted = []
 
     f = open("./Data/test.txt", 'w', encoding='utf8')
 
     for job in jobs:
+        tmp = set()
         if type(job) is str:
+            check = True
             for i in jobs_dict.keys():
                 if i in job:
-                    # f.write(jobs_dict[i] + '-')
-                    break
-            else:
-                f.writelines(job)
-                f.write('\n')
-            # f.write('\n')
-        # else:
-            # f.write('Null\n')
+                    tmp.add(jobs_dict[i])
+                    check = False
+            if check == True:
+                tmp.add('none')
+        tmp = list(tmp)
+        jobs_converted.append(tmp)
+    df['job_modified'] = jobs_converted
+    df.to_csv('./Data/train_input.csv', index=False)
+
     f.close()
 
 if __name__ == "__main__":
