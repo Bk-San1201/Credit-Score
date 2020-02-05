@@ -1,5 +1,7 @@
-pre_process/
-    address.py
-    job.py
-    __init__.py
+Credit-Score/
+    src/
+        pre_process/
+            address.py
+            job.py
+            __init__.py
 

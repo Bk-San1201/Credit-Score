@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from pandas import DataFrame
 import csv
 import json
@@ -8,17 +9,17 @@ import math
 
 
 def new_columns():
-    df = pd.read_csv('./Data/train_input.csv', low_memory=False)
+    df = pd.read_csv('Data/train_input.csv', low_memory=False)
     ar = []
     job = df['maCv'].values.tolist()
     for j in job:
         ar.append(address.remove_accents(j))
     df['job'] = np.array(ar)
-    df.to_csv('./Data/train_input.csv', index=False)
+    df.to_csv('Data/train_input.csv', index=False)
 
 
 def check_job():
-    df = pd.read_csv('./Data/train_input.csv', low_memory=False)
+    df = pd.read_csv('Data/train_input.csv', low_memory=False)
     jobs = df['job'].values.tolist()
     setJob = set()
     for job in jobs:
@@ -50,7 +51,7 @@ def convert_job():
     for i in pre_mapping_dict:
         for val in i[0]:
             jobs_dict[val] = i[1]
-    print(jobs_dict)
+    # print(jobs_dict)
     lstJob = ['cong nhan', 'cn', 'cnhan', 'lao dong',
               'c.nhan', 'coong nhaon', 'may', 'nhan vien', 'nv',
               'ky thuat', 'kt', 'tro li', 'thu ky', 'lai', 'chien',
@@ -58,9 +59,9 @@ def convert_job():
               'kinh doanh', 'bhang', 'ke toan', 'cu nhan', 'cu nhn',
               'cu nhan', 'cu nhn', 'xay dung', 'xd', 'son', 'tho', 'phu',
               'chu tich', 'bi thu', 'truong']
-    # df = pd.read_csv('./Data/train_input.csv', low_memory=False)
-    # jobs = df['job'].values.tolist()
-    # jobs_converted = []
+    df = pd.read_csv('Data/train_input.csv', low_memory=False)
+    jobs = df['job'].values.tolist()
+    jobs_converted = []
 
     # for job in jobs:
     #     if type(job) is str:
@@ -71,5 +72,6 @@ def convert_job():
     #             print(job)
 
 
-if __name__ == "__main__":
-    convert_job()
+# if __name__ == "__main__":
+#     os.chdir(os.path.dirname(os.path.dirname(__file__))[:-4])
+#     convert_job()
