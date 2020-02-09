@@ -3,6 +3,7 @@ from pandas import DataFrame
 import csv
 import json
 import numpy as np
+
 def format():   
     with open('./Data/quan_huyen.txt', encoding='utf8') as file:
         prvs = file.read().splitlines()
