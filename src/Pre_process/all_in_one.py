@@ -173,8 +173,8 @@ def process(df: pd.DataFrame, all_data: pd.DataFrame, description):
 
 
 def main():
-    train = pd.read_csv('./Data/train.csv', delimiter=',', low_memory=False)
-    test = pd.read_csv('./Data/test.csv', delimiter=',', low_memory=False)
+    train = pd.read_csv('../.././Data/train.csv', delimiter=',', low_memory=False)
+    test = pd.read_csv('../.././Data/test.csv', delimiter=',', low_memory=False)
     del train['label']
     all_data = pd.concat([train, test])
 

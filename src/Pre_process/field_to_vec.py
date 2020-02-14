@@ -44,7 +44,7 @@ def encode(strPath):
     # col = 0 to 64
     # col = 0 means not found
     # col = 1 means Null
-    path = ''
+    path = '../../'
     df = pd.read_csv(path + strPath, low_memory=False)
 
     prvs = df['province'].values.tolist()
