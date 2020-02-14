@@ -179,9 +179,10 @@ def main():
     all_data = pd.concat([train, test])
 
     normalize(train, description)
+    normalize(test, description)
     normalize(all_data, description)
 
-    return process(train, all_data, description)
+    return process(train, all_data, description), process(test, all_data, description)
 
 
 # print(main().shape)
